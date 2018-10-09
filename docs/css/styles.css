@@ -1,0 +1,11 @@
+body {
+    color: blue;
+    font-size: 12px;
+}
+#one {
+    font-size: 200%;
+}
+#linkone {
+    color: red;
+    font-size: 20px;
+}
