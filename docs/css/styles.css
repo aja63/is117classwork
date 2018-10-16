@@ -20,6 +20,17 @@ body {
 #tag4 {
     color: cyan;
 }
-#toplist{
+#toplist li{
     display: inline;
+}
+a:link {
+    text-decoration: none;
+    color: blue;
+}
+a:visited {
+    text-decoration: none;
+    color: blue;
+}
+#sitelink{
+    color: blueviolet;
 }
