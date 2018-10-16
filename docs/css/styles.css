@@ -4,21 +4,21 @@ body {
     font-family: Arial;
 }
 #tag0 {
-    font-size: 200%;
+    font-size: 500%;
     color: darkblue;
 
 }
 #tag1 {
-    font-size: 180%;
+    color: aqua;
 }
 #tag2 {
-    font-size: 180%;
+    color: aquamarine;
 }
 #tag3 {
-    font-size: 180%;
+    color: blueviolet;
 }
 #tag4 {
-    font-size: 180%;
+    color: cyan;
 }
 #toplist{
     display: inline;
