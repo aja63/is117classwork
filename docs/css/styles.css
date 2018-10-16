@@ -1,11 +1,22 @@
 body {
     color: blue;
-    font-size: 12px;
-}
-#one {
-    font-size: 200%;
-}
-#linkone {
-    color: red;
     font-size: 20px;
+    font-family: Arial;
+}
+#tag0 {
+    font-size: 200%;
+    color: darkblue;
+
+}
+#tag1 {
+    font-size: 180%;
+}
+#tag2 {
+    font-size: 180%;
+}
+#tag3 {
+    font-size: 180%;
+}
+#tag4 {
+    font-size: 180%;
 }
